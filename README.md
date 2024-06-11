@@ -27,7 +27,7 @@
 </p>
 <p align="center">
 <a href="https://github.com/FREEZE-272/FREEZE-XD"><img width="400" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=FREEZE-272&repo=FREEZE-XD&theme=chartreuse-dark"></a>
-<a href="https://github.com/FREEZE-272/COMPILE"><img width="400" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=FREEZE-272&repo=COMPILE&theme=chartreuse-dark"></a>
+<a href="https://github.com/FREEZE-272/ENCRYPTION"><img width="400" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=FREEZE-272&repo=ENCRYPTION&theme=chartreuse-dark"></a>
 <a href="https://github.com/FREEZE-272/RESERVE"><img width="400" 
 height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=FREEZE-272&repo=RESERVE&theme=chartreuse-dark"></a>
 <a
