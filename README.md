@@ -5,7 +5,7 @@
 
 ![AhmedFarhan](https://komarev.com/ghpvc/?username=FREEZE-272&color=blue)
 
-<a href="https://github.com/AHMED-143"><img src="https://img.shields.io/github/followers/FREEZE-272?label=followers&style=social"/></a>
+<a href="https://github.com/FREEZE-272"><img src="https://img.shields.io/github/followers/FREEZE-272?label=followers&style=social"/></a>
 
 [![](https://img.shields.io/badge/Facebook-blue?logo=Facebook&logoColor=blue&labelColor=white)](https://www.facebook.com/FarHan.YouR.FatHer.OkH.bbY)
 [![](https://img.shields.io/badge/Facebook-blue?logo=Facebook&logoColor=blue&labelColor=white)](https://www.facebook.com/itz.Meh.Your.Dad)
